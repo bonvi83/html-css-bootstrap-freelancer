@@ -15,3 +15,7 @@ a {
     text-decoration: inherit;
     color: white;
 }
+
+img {
+    width: 300px;
+}
