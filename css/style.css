@@ -16,6 +16,22 @@ a {
     color: white;
 }
 
+#portfolio {
+    color: #2c3e50;
+}
+
 img {
     width: 300px;
+}
+
+
+/* da raggruppare ad altri selettori */
+
+#about {
+    background-color: #1abc9c;
+    color: white;
+}
+
+#contact {
+    color: #2c3e50;
 }
